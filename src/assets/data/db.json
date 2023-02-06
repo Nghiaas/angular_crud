@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Headphone - 1",
+            "category_id": "Product description goes here",
+            "price": 100,
+            "is_availabel": true,
+            "rating": 4,
+            "reviews": 120,
+            "vendor_name": "Sell -1",
+            "wranntty": 2
+        },
+        {
+            "id": 2,
+            "name": "Headphone - 2",
+            "category_id": "Product description goes here",
+            "price": 40,
+            "is_availabel": true,
+            "rating": 3,
+            "reviews": 30,
+            "vendor_name": "Sell -1",
+            "wranntty": 1
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ]
+}
